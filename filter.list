@@ -1,4 +1,6 @@
 platform-tools
+build-tools
+tools
 android-19
 android-18
 sys-img-armeabi-v7a-android-19
